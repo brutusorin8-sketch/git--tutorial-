@@ -10,3 +10,4 @@ The purpose of this repository was initially to get an understanding on how to i
 **Step 9**-(Create a pull request), in GitHub I selected Pull Request and then create a new pull request, set the base branch to main and compare branch to feature etc. Clicked create pull request added a suitable title and it was created. In the reviewers tab, selected colleague as reviewer. 
 **Step 10**-(Reviewed and Approved Pull Request), colleague checked and submitted review the Pull Request after confirming everything accurate.
 **Step 11**-(Merge new branch into main and or master branch ), clicked Merge Pull Request since everything was accurate and confirmed the merge. Navigate to the repository's main page and selected the main branch and check that hello.py is present. 
+<img width="1342" height="547" alt="Screenshot 2026-10-25 124728" src="https://github.com/user-attachments/assets/31caf64b-5566-4384-9a46-f8c210a7ed81" />
